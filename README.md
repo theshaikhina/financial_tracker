@@ -1,2 +1,2 @@
-# financial_tracker
-Application for tracking expenses and managing personal finances.
+# Financial Tracker
+Приложение для отслеживания расходов и управления личными финансами.
