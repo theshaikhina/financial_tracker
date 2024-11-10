@@ -1,2 +1,26 @@
 node_modules/
 .env
+# Python
+server/venv/
+__pycache__/
+
+# Node
+client/node_modules/
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# База данных
+server/db.sqlite3
+
+# Виртуальное окружение
+server/venv/
+
+# Node modules
+client/finance_tracker_client/node_modules/
